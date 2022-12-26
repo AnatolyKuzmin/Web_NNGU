@@ -56,6 +56,10 @@ header, footer {
     color: var(--bs-white);
     background-color: var(--color2);
 }
+.btn_itd {
+  display: block;
+  margin: 0 auto;
+}
 
 .btn-itd:hover {
     color: var(--bs-white);
@@ -162,4 +166,3 @@ footer .btn {
   .bg2 {
     background-color: var(--color2);
   }
-

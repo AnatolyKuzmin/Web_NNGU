@@ -10,6 +10,6 @@
   document.getElementById('button').onclick = function() {
     let field1 = document.getElementById('field');
     let out = '';
-        out += `<p class="alert" role="alert">${output}</p>`;
+        out += `<p>${output}</p>`;
         field1.innerHTML = out;
 }
